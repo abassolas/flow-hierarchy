@@ -109,7 +109,6 @@ if len(ostr)>2:
 #plt.clf()
 
 hnet={}
-#print network["4875f79"]
 for source in network:
 
     for target in network[source]:
